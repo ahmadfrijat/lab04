@@ -1,35 +1,51 @@
-body{
-    background-color: darksalmon;
-}
+
+    body {
+        background-image: url("https://i.pinimg.com/originals/b7/4b/2d/b74b2dfeca58f0955c51876c24fcf227.jpg");
+        
+       }
 
 
 *{
     color:firebrick;
     font-weight: bold;
+    font-family: 'Sofia';
+   
 }
 header{
-    background-color: gold;
+    
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 5cm;
     text-align: center;
+    font-size: 30px; 
+   
      
 }
 main{
-    background-color: gold;
-    margin-top: 2px;
-    border-top:2px;
-    border: black;
+    width: 700px;
+  border: 2px solid darkblue;
+  padding: 50px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+
 }
  div{
-    background-color: gold;
-    margin-top: 2px;
-    border-top:2px;
-    border: black;
+    width: 700px;
+    border: 2px solid darkblue;
+    padding: 50px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+      margin-right: auto;
+      font-size: 25px;
 }
 .p1{
- color: #000;
+ color: rgb(230, 4, 4);
+ font-size: 25px;
 }
 .center {
     display: block;
