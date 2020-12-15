@@ -8,6 +8,7 @@ body{
     font-weight: bold;
 }
 header{
+    margin: auto;
     background-color: gold;
     margin-top: 20px;
     border-top:20px;
